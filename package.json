@@ -1,0 +1,30 @@
+{
+  "name": "random-email-password",
+  "version": "1.0.0",
+  "description": "generate random email,password or both",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zohaibalishah/random-email-password.git"
+  },
+  "keywords": [
+    "random-email-password",
+    "random-email",
+    "random-password",
+    "generate",
+    "random",
+    "email"
+  ],
+  "author": {
+    "name": "zohaib ali shah",
+    "email": "zohaibalishah1997@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zohaibalishah/random-email-password/issues"
+  },
+  "homepage": "https://github.com/zohaibalishah/random-email-password#readme"
+}
